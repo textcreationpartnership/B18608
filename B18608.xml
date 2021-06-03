@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Sampson Hele, Esq; against the Right Reverend Father in God, Jonathan, Lord Bishop of Exon, and Gawen Hayman, clerk; in a quare impedit, now depending on a writ of error in the House of Lords.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18608</idno><idno type="EEBO-CITATION">99886448</idno>
+  <idno type="VID">187231</idno>
+  <idno type="EEBO-PROQUEST">2240895271</idno>
+  
+            <idno type="STC">Wing C981A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1852.c.28[26]</idno>
+            <idno type="STC">ESTC R226031</idno>
+            <idno type="PROQUEST">ocm99886448</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886448e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18608)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187231)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:2[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Sampson Hele, Esq; against the Right Reverend Father in God, Jonathan, Lord Bishop of Exon, and Gawen Hayman, clerk; in a quare impedit, now depending on a writ of error in the House of Lords.</title>
+                  <author>Toelawny, Jonathan, Sir, 1650-1721, defendant.</author>
+                  <author>England and Wales. Court of King's Bench.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Toelawny, Jonathan, --  Sir, 1650-1721 --  Trials, litigations,etc. --  Early works to 1800.</term>
+               <term type="personal_name">Hele, Sampson --  trials,litigations, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="statement">
+            <pb facs="tcp:187231:1"/>
+            <head>THE CASE OF <hi>Sampson Hele,</hi> Esq; Against the Right Reverend Father in God, <hi>Jonathan,</hi> Lord Bishop of <hi>Exon,</hi> and <hi>Gawen Hayman,</hi> Clerk; in a <hi>Quare Impedit,</hi> now depending on a Writ of Error in the House of Lords.</head>
+            <div type="term">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Hill. Term,</hi> 2. Will. &amp; Mariae.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>SAmpson Hele,</hi> Esq; brought a <hi>quare impedit</hi> in the Court of Common-Pleas, against the Lord Bishop of <hi>Exon</hi> and <hi>Gawen Hayman,</hi> Clerk, for recovery of his Presentation to the Church of <hi>Southpole</hi> in <hi>Devon,</hi> the Advowson of which, is appendant to his Mannor of <hi>Southpole,</hi> of which he is Seized in Fee.</p>
+               <p>To which the Defendants appeared, and the Bishop pleaded, that he claimed nothing in the Church but as Ordinary, but said further, that the 15th of <hi>April An.</hi> 2d. <hi>Will. &amp; Mariae,</hi> the Church became void; and the 19th of <hi>May, Anno praed.</hi> Mr. <hi>Hele</hi> presented one <hi>Fran<g ref="char:EOLhyphen"/>cis Hodder,</hi> as his Clerk to the said Church, whom the Bishop on Examination sound to be <hi>Persona in literatura minus sufficiens seu capax ad habendum dictam Ecclesiam</hi> and therefore he refused to admit the said <hi>Hodder,</hi> and two and thirty days after, gave notice to Mr. <hi>Hele</hi> to pre<g ref="char:EOLhyphen"/>sent another Clerk; who did not present any other Person, within six Months after the Death of the last Incumbent; whereupon, the right of Collation devolved to him as Ordinary, by <hi>Lapse,</hi> and he Presented the Defendant <hi>Hayman.</hi>
+               </p>
+               <p>Mr. <hi>Hayman</hi> Pleaded the same Plea <hi>verbatim,</hi> as the Bishop Pleaded.</p>
+               <p>Mr. <hi>Hele</hi> by Replication says, That the said <hi>Francis Hodder,</hi> at the time when he was presented to the said Church, was Vicar of the Parish Church of <hi>Ʋgborough</hi> in the County of <hi>Devon;</hi> lawfully Admitted, Instituted, and Inducted thereunto, and was in Holy Orders, by Episcopal Ordination, from the late Bishop <hi>Sparrow,</hi> then Bishop of <hi>Exon;</hi> and in Reading, Praying, Preaching, Administring the Sacraments, and in all other things appertaining to the Priest's Office and Cure of Souls, was well and sufficiently Learned.</p>
+               <p>The Defendants, by Rejoinder to this Replication, maintain their Plea; and after some further Pleading, (not very material,) the Defendants Demurre, and the Plaintiff joins in Demurrer, and the matter is left to the consideration of the Court.</p>
+               <p>The only point in the Case, arose upon the Defendants Plea; and the main Objection thereunto, was, that it was too general and uncertain, not comprehending any particular or certain Cause of the Bishop's refusal of Mr. <hi>Hodder</hi> for; Learning in the general, comprehends all Humane Science; many parts whereof, are not at all requisite to the Qualification of a Priest; and by the general expression of <hi>minus sufficiens in litera<g ref="char:EOLhyphen"/>tura</hi> it appeared not, in what part of Learning Mr. <hi>Hodder</hi> was deficient, so as the Temporal Courts could not thereupon Adjudge, whether the Cause, for which the Bishop refused Mr. <hi>Hodder,</hi> was a sufficient Cause in Law, to refuse him, or not.</p>
+               <p>The Cause depended two Years in the Common-Pleas, and was Argued thrice at the Bar, by Serjeants of either side; and in <hi>Hillary</hi> Term, 4 <hi>Reg. &amp; Reginae nunc,</hi> &amp;c. Judgment was given for the Plaintiff, by the unanimous Consent of the whole Court, upon the insufficiency of the Defendants Pleas, for the Reason above mentioned.</p>
+            </div>
+            <div type="term">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Hill. Term,</hi> 4. W. &amp; M.</date>
+                  </dateline>
+               </opener>
+               <p>The Defendants being dissatisfied with this Judgment, brought a Writ of Error in the King's Bench, which came on to be Argued before the Judges of that Court, in <hi>Michaelmas</hi> Term last; who on the first Argument, seemed inclinable to affirm the Judgment which the Court of Common-Pleas had given; but the Defendants Councel pressing for another Argument, the Court gave them further time till the Term follow<g ref="char:EOLhyphen"/>ing; and in <hi>Hillary</hi> Term last, the Councel for the Plaintiff was prepared, and offered to have Argued the Cause a second time, but the Councel for the Defendants (seeing the Opinion of the Court to be against them) refused to speak any more thereunto, but desired the Court to give their Judgment therein; so that even by the Defendants own Consent, as well as on the Matter in Law, the Court of King's Bench affirm'd the Judgment; and the Judges declared their Opinions of the insufficiency of the Plea, for the Reason above mentioned.</p>
+               <p>
+                  <label>Obj.</label> It may be Objected, that the Matter of Fact contained in the Bishop's Plea, is true, though it be not sufficiently pleaded; that Mr. <hi>Hodder</hi> is an Illiterate Man; that he is unworthy of Orders, by Reason of his Ignorance; and that he got them in a surreptitious manner; that the Bishop could not in Conscience admit him, when he found him so very unfit; so that this Judgment is given upon the bare formality of pleading only; when as Truth and Reason, and the preservation of the Church's Rights, are on the other side.</p>
+               <p>
+                  <label>Answ.</label> Mr. <hi>Hodder</hi> hath been a Benefic'd Clergy Man in <hi>Devonshire,</hi> Twenty Years and upwards, of a very Sober Conversation, and an Honest Chara<g ref="char:EOLhyphen"/>cter amongst his Neighbours; and lookt upon, to be an Able, Painful, Diligent Man in his Function; his Insufficiency in Learning (whatever it be) was unknown to Mr. <hi>Hele,</hi> who is a private Country Gentleman; and finding Mr. <hi>Hodder</hi> a Priest in Orders, having charge of a great Congregation; and a great Family, but a small Income (his Vicaridge being not worth above 30 pounds <hi>per An.</hi>) out of Charity presented him to this Benefice of <hi>Southpole;</hi> where his Livelyhood would have been augmented, but his Charge very much lessened; for there are five times as many Souls in <hi>Ʋgborough,</hi> as there are in <hi>Southpole;</hi> so that if he be sufficient to keep that Benefice which he hath already, he is much more so to take this new Preferment.</p>
+               <p>If it be said that 'tis hard, that a slip in the formality of pleading, should lose to the Bishop the Right of Presentation; which by the <hi>Lapse</hi> is fallen to him; It's harder, that Mr. <hi>Hele</hi>'s Charity to a poor Clergy-Man, should be the occasion of losing his Inheritance; and if the Bishop will take the advantage of a <hi>Lapse,</hi> to deprive the Patron of his Presentation; it's hoped, that the Patron may take any advantage the Law gives him to recover it.</p>
+               <p>
+                  <label>Obj.</label> Should this Judgment stand; Mr. <hi>Hodder</hi> (whom the said Bishop of <hi>Exon</hi> hath found unfit) shall be obtruded and thrust into the Church, against the Conscience and Duty of his Diocesan, who by reason of his Insufficiency, was bound to refuse him Institution.</p>
+               <p>
+                  <label>Answ.</label> With all due Respect to his Lordship and the Jurisdiction and Priviledges of the Church; it may in Answer be observed, that the Judgment at Law is, that the Patron shall recover the Presentation, not that Mr. <hi>Hodder</hi> shall have Institution; for now a Writ must go to the Metropolitane to require him to admit a fit Person to the Church on Mr. <hi>Hele</hi>'s Presentation; and if he present Mr. <hi>Hodder</hi> again, and the Archbishop find him insufficient, he may refuse to admit him; so that 'tis not any hardship put upon the Lord Bishop of <hi>Exon,</hi> or any breach on the Jurisdiction of the Church; for the Archbishop is still Judge of Mr. <hi>Hodder</hi>'s sufficiency; and he is also still lyable to the Bishop of <hi>Exon</hi>'s Jurisdiction, who for the same Cause (admitting it sufficient) for which he refused him Institution to a new Benefice, may deprive him of that which he hath already.</p>
+               <p>The tender Regard that the Laws of <hi>England</hi> have to the preservation of the Temporal Rights of <hi>English</hi> Subjects, was the great Reason that guided the Opinions of the Judges in their Judging of this Case; for should every Ordinary be the absolute Judge of his own Cause of Refusal; and the Temporal Courts be obliged to give Judgment on a general Allegation of <hi>minus sufficiens in literatura</hi> without being in<g ref="char:EOLhyphen"/>formed in what particular the Insufficiency lyes; it must from thence necessarily follow, that all the Patronages and Advowsons in the Hands of the Nobility and Gentry of <hi>England,</hi> must be precarious; for then the Ordinary may refuse any Clerk presented by a Rightful Patron, until the six Months be elaps'd, and then take the advantage of that delay which he himself occasion'd.</p>
+            </div>
+            <closer>It's therefore humbly hop'd, that the Judgment given in the Common-Pleas in this Cause, and affirm'd afterwards in the King's Bench, will likewise have the Confirmation of this most Honourable House.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:187231:2"/>
+            <p>The CASE Of <hi>Sampson Hele</hi> Esq; Against The Bishop of <hi>Exon, &amp; al.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
